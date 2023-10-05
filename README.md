@@ -7,5 +7,5 @@ pip3 install openai
 
 ## Run main.py
 ```
-pythons3 main.py
+python3 main.py
 ```
